@@ -1,5 +1,5 @@
-using Documenter, PrivateExample3
+using Documenter, PrivateExample4
 
-makedocs(modules = [PrivateExample3], sitename = "PrivateExample3.jl")
+makedocs(modules = [PrivateExample4], sitename = "PrivateExample4.jl")
 
-deploydocs(repo = "gitlab-test.eastus2.cloudapp.azure.com/vdayanand/PrivateExample3.jl.git")
+deploydocs(repo = "gitlab-test.eastus2.cloudapp.azure.com/vdayanand/PrivateExample4.jl.git")
